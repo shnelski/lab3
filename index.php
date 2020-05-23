@@ -30,8 +30,8 @@
         <th>NAME</th>
         <th>POWER</th>
         <th>BEATS</th>
-        <th>DELETE</th>
         <th>UPDATE</th>
+        <th>DELETE</th>
       </tr>
     </thead>
     <tbody>   
